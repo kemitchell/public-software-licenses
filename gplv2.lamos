@@ -1,0 +1,15 @@
+title: GNU General Public License, version 2
+SPDX: GPL-2.0
+version: 2
+homepage: https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html
+OSI: https://opensource.org/licenses/GPL-2.0
+FSF: https://www.gnu.org/licenses/license-list.en.html#GPLv2
+Wikipedia: https://en.wikipedia.org/wiki/GNU_General_Public_License#Version_2
+Debian: https://www.debian.org/legal/licenses/
+steward: Free Software Foundation
+copyright year: June 1991
+tags:
+  - copyleft
+  - GPL family
+  - GPL-style copyleft
+  - strong copyleft

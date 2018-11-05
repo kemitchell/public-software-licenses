@@ -1,0 +1,53 @@
+{
+  "type": "object",
+  "properties": {
+    "title": {
+      "type": "string"
+    },
+    "version": {
+      "type": "string"
+    },
+    "homepage": {
+      "type": "string",
+      "format": "uri"
+    },
+    "OSI": {
+      "type": "string",
+      "format": "uri"
+    },
+    "FSF": {
+      "type": "string",
+      "format": "uri"
+    },
+    "Debian": {
+      "type": "string",
+      "format": "uri"
+    },
+    "Wikipedia": {
+      "type": "string",
+      "format": "uri"
+    },
+    "author": {
+      "type": "string"
+    },
+    "steward": {
+      "type": "string"
+    },
+    "copyright year": {
+      "type": "string"
+    },
+    "SPDX": {
+      "type": "string"
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    }
+  },
+  "required": [
+    "title"
+  ],
+  "additionalProperties": false
+}
